@@ -7,7 +7,7 @@ module.exports = {
 		memory: ''
 	},
 	serviceVersion: 1,
-	serviceName: "controller",
+	serviceName: "controller2",
 	serviceGroup: "SOAJS Core Service",
-	servicePort: 4000
+	servicePort: 5000
 };
